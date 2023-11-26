@@ -1,4 +1,4 @@
 ::selection{
-    color: #C18638 ;
-    background-color: #080D14;
+    color: var(--azul-claro);
+    background-color: var(--azul-escuro);
 }
