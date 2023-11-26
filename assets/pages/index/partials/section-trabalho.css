@@ -33,6 +33,7 @@ section.trabalho  {
 section .bloco-1{
     color: var(--azul-escuro);
     list-style-type: none;
+    font-family: titulo;
     
 }
 
@@ -40,11 +41,12 @@ section .bloco-2{
     color: var(--azul-escuro);
     text-align: right;
     list-style-type: none;
+    font-family: titulo;
 }
 
 li{
     line-height: 35px;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 iframe{
