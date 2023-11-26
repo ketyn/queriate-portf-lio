@@ -1,0 +1,38 @@
+section.contrate {
+    background-color: var(--azul-escuro);
+    height: 100vh;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+section.contrate h1 {
+    color: var(--azul-claro);
+    font-family: 'titulo';
+    font-size: 2rem;
+    margin-top: 80px;
+}
+
+section.contrate span {
+    color: var(--cor-branco);
+}
+
+section.contrate a {
+    padding: 10px 50px;
+    color: var(--azul-escuro);
+    background-color: var(--azul-claro);
+    text-decoration: none;
+    font-family: 'titulo';
+    border-radius: 50px;
+    letter-spacing: .2rem;
+}
+
+section.contrate a:visited {
+    color: var(--azul-escuro);
+}
+
+section.contrate a:hover {
+    letter-spacing: 5px;
+}
