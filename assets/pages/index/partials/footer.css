@@ -1,0 +1,7 @@
+footer.rodape{
+    background-color: var(--cor-branco);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 80px;    
+}

@@ -72,11 +72,11 @@ footer a {
     transition: .3s;
 }
 
-a:visited{
+footer a:visited{
     color: var(--azul-claro);
 }
 
-a:hover{
+footer a:hover{
     letter-spacing: 3px ;
 }
 
